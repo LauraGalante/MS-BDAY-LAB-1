@@ -1,6 +1,6 @@
 # MS-BDAY-LAB-1
 Lab dio de aprendizagem 
 
-##  WIP ## 
+#  WIP #
 
-# Conceitos de Cloud Computing 
+## Conceitos de Cloud Computing ##
